@@ -7,5 +7,4 @@ app.use('/items', ItemController);
 
 module.exports = app;
 
-//comment babyyy
-//asdasd
+console.log("Hello");
